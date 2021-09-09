@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexe\\source\\repos\\TestTask\\TestTask\\TestTask.csproj": {}
+    "D:\\Repos\\testtask\\TestTask\\TestTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexe\\source\\repos\\TestTask\\TestTask\\TestTask.csproj": {
+    "D:\\Repos\\testtask\\TestTask\\TestTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexe\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
+        "projectUniqueName": "D:\\Repos\\testtask\\TestTask\\TestTask.csproj",
         "projectName": "TestTask",
-        "projectPath": "C:\\Users\\alexe\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
+        "projectPath": "D:\\Repos\\testtask\\TestTask\\TestTask.csproj",
         "packagesPath": "C:\\Users\\alexe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexe\\source\\repos\\TestTask\\TestTask\\obj\\",
+        "outputPath": "D:\\Repos\\testtask\\TestTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

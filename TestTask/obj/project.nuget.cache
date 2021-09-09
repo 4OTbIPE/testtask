@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yGN9fwv2ybZp7RDs3pM4qQairI44N6aC9rPPDNOjDJsW311e/fbTV/JcvqotBSuZfZG3v+kwgNYWhfR7XyVQKg==",
+  "dgSpecHash": "9BdPSCAMm0Ctp52+yqD/rhdjctdGpKDzYKG0/2YMO5dIL+sz+6InTVjXLqywvo9g8dAW3IghpV6OkBuh26GmyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexe\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
+  "projectFilePath": "D:\\Repos\\testtask\\TestTask\\TestTask.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
