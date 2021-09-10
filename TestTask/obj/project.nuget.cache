@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9BdPSCAMm0Ctp52+yqD/rhdjctdGpKDzYKG0/2YMO5dIL+sz+6InTVjXLqywvo9g8dAW3IghpV6OkBuh26GmyQ==",
+  "dgSpecHash": "jAe5ucCzay6Sny/VNdZRSEzGkutserjAhVVliS8AjeVtEajBRdEVxRgx/k1tUOiGMxhcck3aD+lyJpNelAusiA==",
   "success": true,
   "projectFilePath": "D:\\Repos\\testtask\\TestTask\\TestTask.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alexe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
